@@ -4,3 +4,5 @@ A) Styling multi-column layouts with the use of float. While I personally prefer
 B) Using the overflow propery to prevent elements from expanding beyond their containers
 C) Responsive design 
 D) Providng visual feedback to the user upon hovering over a button or link
+
+Assets and design provided by SuperHi: https://www.superhi.com/?r=bgrigs
